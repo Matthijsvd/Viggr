@@ -222,3 +222,6 @@ h2 {
 	color:white;
     border-color: #f65351
 }
+.navbar-inverse .navbar-nav>li>a:hover { 
+    background-color: #f65351;
+}
