@@ -220,7 +220,8 @@ h2 {
 .btn-primary {
 	background-color: #f65351;
 	color:white;
-    border-color: #f65351
+    border-color: #f65351;
+    margin-right: 22%;
 }
 .navbar-inverse .navbar-nav>li>a:hover { 
     background-color: #f65351;
