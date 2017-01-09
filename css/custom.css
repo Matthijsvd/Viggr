@@ -3,7 +3,7 @@
 
 body {
   font-family: 'Bungee', sans-serif;
-  color: white;
+  color: #ffffff;
 }
 
 ul.nav, .jumbotron h1 {
@@ -17,7 +17,9 @@ p {
     margin-bottom: 2em;
     color: white;
 }
-
+.navbar-brand {
+    font-size: 2em;
+}
 footer{
 
 	background-color:#f65351 ;
@@ -147,6 +149,15 @@ h2 {
 	width:15%;
 }
 .container {
+}
+.first{
+    display: none;
+}
+.second{
+    display: none;
+}
+.third{
+    display: none;
 }
 
 .jumbotron h1{
